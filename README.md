@@ -14,7 +14,7 @@
 攝影機的座標
 粒子系統噴射
 
-## 截圖
+## 畫面截圖
 ![](img/Screen1.png)
 ![](img/Screen2.png)
 ![](img/Screen3.png)
