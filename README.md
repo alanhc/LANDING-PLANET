@@ -1,11 +1,6 @@
 # LANDING-PLANET
 [![Landing:Planet](http://img.youtube.com/vi/sISmhfmjx60/0.jpg)](https://youtu.be/sISmhfmjx60)
 
-## 截圖
-![](img/Screen1.png =250x250)
-![](img/Screen2.png =250x250)
-![](img/Screen3.png =250x250)
-
 ## 如何操作:
 滑鼠點按
 
@@ -18,3 +13,8 @@
 重寫3次最終改寫成物件導向的CLASS寫法
 攝影機的座標
 粒子系統噴射
+
+## 截圖
+![](img/Screen1.png =250x250)
+![](img/Screen2.png =250x250)
+![](img/Screen3.png =250x250)
