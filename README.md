@@ -15,6 +15,6 @@
 粒子系統噴射
 
 ## 截圖
-![](img/Screen1.png =250x250)
-![](img/Screen2.png =250x250)
-![](img/Screen3.png =250x250)
+![](img/Screen1.png)
+![](img/Screen2.png)
+![](img/Screen3.png)
