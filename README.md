@@ -1,9 +1,9 @@
 # LANDING-PLANET
 [![Landing:Planet](http://img.youtube.com/vi/sISmhfmjx60/0.jpg)](https://youtu.be/sISmhfmjx60)
 
-![](Screen1.png)
-![](Screen2.png)
-![](Screen3.png)
+![](img/Screen1.png)
+![](img/Screen2.png)
+![](img/Screen3.png)
 
 ## 如何操作:
 滑鼠點按
