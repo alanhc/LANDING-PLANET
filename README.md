@@ -2,9 +2,9 @@
 [![Landing:Planet](http://img.youtube.com/vi/sISmhfmjx60/0.jpg)](https://youtu.be/sISmhfmjx60)
 
 ## 截圖
-![](img/Screen1.png width=70)
-![](img/Screen2.png width=70)
-![](img/Screen3.png width=70)
+![](img/Screen1.png =250x250)
+![](img/Screen2.png =250x250)
+![](img/Screen3.png =250x250)
 
 ## 如何操作:
 滑鼠點按
