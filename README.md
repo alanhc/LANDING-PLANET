@@ -1,18 +1,22 @@
-# LANDING-PLANET
+LANDING-PLANET
+=====
+此專案使用了Java版 Processing開發的一款太空遊戲，並且有Android版本
+
+## Video
 [![Landing:Planet](http://img.youtube.com/vi/sISmhfmjx60/0.jpg)](https://youtu.be/sISmhfmjx60)
+## How to run
+1. clone this project:`git clone hhttps://github.com/alanhc/LANDING-PLANET.git`
+2. 下載 [Processing](https://processing.org/) 執行
 
 ## 如何操作:
-滑鼠點按
+電腦版:滑鼠點按
+手機版:觸控操作
+飛船會往中心點及點選方向噴射出燃料移動，每個星球有他的物理模擬(星球重力)，您的任務就是要在燃料用盡前探索夠多的星球。
 
-## 賣點&特點:
+## 特點:
 1. 炫麗的特效
 2. 物理(星球重力及降落)及粒子系統(噴射)
 3. 世界地圖可根據視角縮放
-
-## 困難點:
-重寫3次最終改寫成物件導向的CLASS寫法
-攝影機的座標
-粒子系統噴射
 
 ## 畫面截圖
 ![](img/Screen1.png)
