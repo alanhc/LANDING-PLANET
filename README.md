@@ -5,7 +5,7 @@ LANDING-PLANET
 ## Video
 [![Landing:Planet](http://img.youtube.com/vi/sISmhfmjx60/0.jpg)](https://youtu.be/sISmhfmjx60)
 ## How to run
-1. clone this project:`git clone hhttps://github.com/alanhc/LANDING-PLANET.git`
+1. clone此專案:`git clone hhttps://github.com/alanhc/LANDING-PLANET.git`
 2. 下載 [Processing](https://processing.org/) 執行
 
 ## 如何操作:
