@@ -6,7 +6,7 @@ LANDING-PLANET
 [![Landing:Planet](http://img.youtube.com/vi/sISmhfmjx60/0.jpg)](https://youtu.be/sISmhfmjx60)
 ## How to run
 1. clone此專案:`git clone hhttps://github.com/alanhc/LANDING-PLANET.git`
-2. 下載 [Processing](https://processing.org/) 執行
+2. 下載 [Processing](https://processing.org/) 執行 test3/test3.pde
 
 ## 如何操作:
 電腦版:滑鼠點按
