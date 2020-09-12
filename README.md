@@ -1,7 +1,7 @@
 LANDING-PLANET
 =====
 此專案靈感來自[Mars: Mars]，使用了Java版 Processing開發的一款太空遊戲，並且有[Android版本](https://github.com/alanhc/LANDING-PLANET/tree/master/phone_class)。利用電腦圖學的概念去模擬太空的物理(星球重力、降落及太空重力)，同時也有粒子系統(太空船噴射特效)及降落特效(視角縮放)。
-[Mars: Mars](https://www.youtube.com/watch?v=gImaYwpEc2I)
+[Mars: Mars]:https://www.youtube.com/watch?v=gImaYwpEc2I
 ## Video
 [![Landing:Planet](http://img.youtube.com/vi/sISmhfmjx60/0.jpg)](https://youtu.be/sISmhfmjx60)
 ## How to run
